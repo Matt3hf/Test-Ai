@@ -21,7 +21,7 @@
    - 直接运行可执行文件，无需安装其他依赖。
    - 系统运行需要Access数据库支持，请确保系统中已安装Access或Access运行时。
    - 在登录界面可能出现ocx文件缺失等一些列启动库问题
-   - 可以通过https://www.dependencywalker.com/检查DLL文件完整性并在系统中注册
+   - 可以通过(https://www.dependencywalker.com/) 检查DLL文件完整性并在系统中注册
 
 3. **论文**：
    - 论文内容详细，适合作为毕业设计的参考文档。
